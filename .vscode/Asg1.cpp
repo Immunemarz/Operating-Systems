@@ -10,6 +10,7 @@ int main(){
     vector<string> messages ({"hello","my","first","vector","in","c++"});
     for(auto s : messages){
         cout << s << endl;
+        cout << endl;
     }
     return 0;
 }
